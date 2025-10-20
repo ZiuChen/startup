@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background rounded rect -->
+  <rect width="512" height="512" rx="128" fill="black"/>
+  <!-- Home icon scaled and centered -->
+  <g transform="translate(80, 80) scale(14.67)">
+    <path fill="white" d="m12 5.69l5 4.5V18h-2v-6H9v6H7v-7.81zM12 3L2 12h3v8h6v-6h2v6h6v-8h3"/>
+  </g>
+</svg>
